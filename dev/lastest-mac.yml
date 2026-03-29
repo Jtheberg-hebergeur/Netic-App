@@ -1,0 +1,8 @@
+version: 1.0.0-dev
+files:
+  - url: netic.dmg
+    sha512: gpGr71XO02RADg/GtLWlVa5zdxYERyVuD8YnUwA/tWWLFrneC/JeGeBhpwMhjAWskbg1B2OKwNtUE5klbLNRSQ==
+    size: 90216870
+path: netic.dmg
+sha512: gpGr71XO02RADg/GtLWlVa5zdxYERyVuD8YnUwA/tWWLFrneC/JeGeBhpwMhjAWskbg1B2OKwNtUE5klbLNRSQ==
+releaseDate: '2026-03-29T10:28:08.140Z'
