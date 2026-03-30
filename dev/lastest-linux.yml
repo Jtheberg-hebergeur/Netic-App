@@ -1,12 +1,12 @@
 version: 1.0.0-dev
 files:
   - url: netic.AppImage
-    sha512: Q4vScKeG0GBapCeWdOJw3y5X48UGRgMfpR1nlyWXZesRLNYtl6EfDo3Qwp2MnbNKHV9mfKSe5QB4RMgdzgFdYQ==
-    size: 83975282
-    blockMapSize: 89222
+    sha512: qI9WpuOPE5APEN5oTJfxA0j77QT+htl0BuLi54bIQWgSQgJNGkG8Q7ShA2uZzRe+QW1REMbP3h9OrxyGCCqgag==
+    size: 83975258
+    blockMapSize: 89198
   - url: netic.deb
-    sha512: 68JkiPvlyyqV9LaHgqJCesBzuVxsDjcIcoeBaS+R8p+0+NtJylHil014vFyj+73IvWd/Ps/mhVihC7zDm87bqg==
-    size: 74995768
+    sha512: QIfhF3Yg+0imXsjFAMG+Xrn4vDGaB+jC772Kx0ShWnaIw5dXhBk9KbKmeZdarIA/vlq4df8ecFpQNoW01b+d/g==
+    size: 74992638
 path: netic.AppImage
-sha512: Q4vScKeG0GBapCeWdOJw3y5X48UGRgMfpR1nlyWXZesRLNYtl6EfDo3Qwp2MnbNKHV9mfKSe5QB4RMgdzgFdYQ==
-releaseDate: '2026-03-30T07:54:40.999Z'
+sha512: qI9WpuOPE5APEN5oTJfxA0j77QT+htl0BuLi54bIQWgSQgJNGkG8Q7ShA2uZzRe+QW1REMbP3h9OrxyGCCqgag==
+releaseDate: '2026-03-30T09:11:21.422Z'
