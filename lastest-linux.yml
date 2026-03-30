@@ -1,0 +1,12 @@
+version: 2026.3.30
+files:
+  - url: netic.AppImage
+    sha512: 9u0ciWi6HFA68VJI4cRgcD3AzEDbDI3PWL3GAoo5LQh+auqnALEA4sOo5eV9ATXllRahvUWwW/OhqxFyfowm6Q==
+    size: 83975265
+    blockMapSize: 89205
+  - url: netic.deb
+    sha512: J5VykSR/8HBETGB2Fsp1LzX83Ii3oCpMNZ2N0PrRIt0a3ft/PTsbRyYq8wUFTaA+0iQiOzOBn4VTIA4iXoGTQQ==
+    size: 74986252
+path: netic.AppImage
+sha512: 9u0ciWi6HFA68VJI4cRgcD3AzEDbDI3PWL3GAoo5LQh+auqnALEA4sOo5eV9ATXllRahvUWwW/OhqxFyfowm6Q==
+releaseDate: '2026-03-30T08:46:42.761Z'
