@@ -1,0 +1,8 @@
+version: 2026.3.30-1
+files:
+  - url: netic.dmg
+    sha512: d95MDhOs3t3osPLsr1pHTJkZqYn3k1CRjYMreApyumIzkxv0qn228BZjjKSweaOV2ceTD8HlaedlUaULHXNkKw==
+    size: 90223094
+path: netic.dmg
+sha512: d95MDhOs3t3osPLsr1pHTJkZqYn3k1CRjYMreApyumIzkxv0qn228BZjjKSweaOV2ceTD8HlaedlUaULHXNkKw==
+releaseDate: '2026-03-30T12:27:22.817Z'
