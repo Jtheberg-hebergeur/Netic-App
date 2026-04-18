@@ -1,12 +1,12 @@
 version: 1.0.0-dev
 files:
   - url: netic.AppImage
-    sha512: EcUwyoE/wFSacIE9pZqvgz6RiGGCpkhc4YNTz3jr6n6p/4kCVNE0yG2MzYw/voquSph1JiflpUIIQmBIaVcVcA==
-    size: 83975224
-    blockMapSize: 89164
+    sha512: oiffq4dqihSRs121hkRk3592sBI7QBeNVyM+0wXkq7FSRFlrt+JO3QP+kgyz/BAZC9ypw3lzK8jRD3A0/UVICA==
+    size: 83975273
+    blockMapSize: 89213
   - url: netic.deb
-    sha512: Rd9gB7vXIESOk5MnYVOA/Od2JvRSwYoWyn8uADU7c+2hEbR+qz7Lhrgnc8dBkTeKL/alYDsptK/tRibmGsrO4A==
-    size: 75047262
+    sha512: l4Kh+q/oqGfgnrYSLw1fJTtuDxFOEZnhNV5zO8oW50/eL/qnkSULxkxJO0ko8aZekTLr76Dr2uaBCG3/YPvKFw==
+    size: 75019864
 path: netic.AppImage
-sha512: EcUwyoE/wFSacIE9pZqvgz6RiGGCpkhc4YNTz3jr6n6p/4kCVNE0yG2MzYw/voquSph1JiflpUIIQmBIaVcVcA==
-releaseDate: '2026-04-14T20:43:01.192Z'
+sha512: oiffq4dqihSRs121hkRk3592sBI7QBeNVyM+0wXkq7FSRFlrt+JO3QP+kgyz/BAZC9ypw3lzK8jRD3A0/UVICA==
+releaseDate: '2026-04-18T21:44:32.033Z'
