@@ -1,8 +1,0 @@
-version: 2026.3.30-r3
-files:
-  - url: netic.exe
-    sha512: 0dXwnF9BhpV9eiqzX/gAUDk9wfqzzSpZ7/RktemHnNBuumwPwQjhGaKaXOkKKzAiaIx+VlxesmjRpSIECtOleA==
-    size: 81849810
-path: netic.exe
-sha512: 0dXwnF9BhpV9eiqzX/gAUDk9wfqzzSpZ7/RktemHnNBuumwPwQjhGaKaXOkKKzAiaIx+VlxesmjRpSIECtOleA==
-releaseDate: '2026-04-19T02:27:30.512Z'
