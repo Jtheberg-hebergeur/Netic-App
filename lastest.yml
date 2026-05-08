@@ -1,0 +1,8 @@
+version: 2026.5.1
+files:
+  - url: netic.exe
+    sha512: EUH339ZWONFETAfO1W2b3lGKIQeoQvm+6vOS/55Yulhoymj2sBKq1ptYWrstqANH0UahP15OdoEK6w9QJ0MLAg==
+    size: 81886912
+path: netic.exe
+sha512: EUH339ZWONFETAfO1W2b3lGKIQeoQvm+6vOS/55Yulhoymj2sBKq1ptYWrstqANH0UahP15OdoEK6w9QJ0MLAg==
+releaseDate: '2026-05-08T04:59:14.923Z'
