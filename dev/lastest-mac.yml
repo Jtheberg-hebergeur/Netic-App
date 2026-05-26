@@ -1,8 +1,8 @@
 version: 1.0.0-dev
 files:
   - url: netic.dmg
-    sha512: S0D/hq4JBF7pECUTSnVVdABxTTHrdi/JU+93++MmbtqMsjpmxO+vyeUVJQSMi4S3Am+/ZJ7jaU/QSQluASZMWQ==
-    size: 90137818
+    sha512: A8gQfoOMz0jy6gNQBJxuK4/PBMAlr+SG+YqNYt8ShvmivKbEpQmpTxltMQ3vAIeLY6wgcua4HdoYisH8lAcxuQ==
+    size: 90147431
 path: netic.dmg
-sha512: S0D/hq4JBF7pECUTSnVVdABxTTHrdi/JU+93++MmbtqMsjpmxO+vyeUVJQSMi4S3Am+/ZJ7jaU/QSQluASZMWQ==
-releaseDate: '2026-05-26T10:39:14.857Z'
+sha512: A8gQfoOMz0jy6gNQBJxuK4/PBMAlr+SG+YqNYt8ShvmivKbEpQmpTxltMQ3vAIeLY6wgcua4HdoYisH8lAcxuQ==
+releaseDate: '2026-05-26T17:48:46.036Z'
