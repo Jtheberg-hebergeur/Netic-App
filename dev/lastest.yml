@@ -1,8 +1,8 @@
 version: 1.0.0-dev
 files:
   - url: netic.exe
-    sha512: EYU3n/jlr4ZFl4kWsEANmf3hSolLpA8Uzj9irSldYn1I6Et8+YPKPtCw8fphZT005Z6WzFiTPiyhjbRtHkAO7A==
-    size: 81876571
+    sha512: JNu6gU19hM4fk7wxGXWjkLbS9mRcj5ZTGQRElzbib13tlnU7YWwEPQez+8U061PgZdjbt43T4IOBb7Cp1dy0cw==
+    size: 81878498
 path: netic.exe
-sha512: EYU3n/jlr4ZFl4kWsEANmf3hSolLpA8Uzj9irSldYn1I6Et8+YPKPtCw8fphZT005Z6WzFiTPiyhjbRtHkAO7A==
-releaseDate: '2026-05-27T06:31:37.898Z'
+sha512: JNu6gU19hM4fk7wxGXWjkLbS9mRcj5ZTGQRElzbib13tlnU7YWwEPQez+8U061PgZdjbt43T4IOBb7Cp1dy0cw==
+releaseDate: '2026-06-18T06:29:28.451Z'
