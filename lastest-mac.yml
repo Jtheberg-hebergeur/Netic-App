@@ -1,8 +1,8 @@
 version: 2026.7.1
 files:
   - url: netic.dmg
-    sha512: LMVSHWkTb2vZ9wkJGlfz0WJA+dhxNmZDkl3G34S8+eedyotLE5WRAX+Yx6PPC3UMf54sZ9VkBIyTAmc0thIDKw==
-    size: 90173780
+    sha512: FooAxBIIMh/p5QCaXz/BVe8EbgvYNWSLDgSPXFfKn9pIsHgn907q1/vscVQkJY6IrFALo0z0MlDG3Xai5Db6lw==
+    size: 90127068
 path: netic.dmg
-sha512: LMVSHWkTb2vZ9wkJGlfz0WJA+dhxNmZDkl3G34S8+eedyotLE5WRAX+Yx6PPC3UMf54sZ9VkBIyTAmc0thIDKw==
-releaseDate: '2026-07-01T10:03:07.646Z'
+sha512: FooAxBIIMh/p5QCaXz/BVe8EbgvYNWSLDgSPXFfKn9pIsHgn907q1/vscVQkJY6IrFALo0z0MlDG3Xai5Db6lw==
+releaseDate: '2026-07-01T10:14:46.121Z'
